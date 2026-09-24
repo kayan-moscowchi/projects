@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+stl10_binary/
+*.bin
+
+# Model weights
+*.h5
+*.keras
+
+# Training outputs
+logs/
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
